@@ -27,7 +27,8 @@ Traditional swim practice recordings are often messy, hard to sync, and difficul
 ## Screenshots
 
 ### System Overview
-![System Diagram](assets/system_overview.png)
+![System Diagram](pictures/circuit.png)
+![Transducer](pictures/IMG_0898.jpeg.png)
 
 ### Underwater Camera Feed
 ![Camera Feed](assets/camera_feed.png)
