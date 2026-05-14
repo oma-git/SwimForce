@@ -17,7 +17,7 @@ Traditional swim practice recordings are often messy, hard to sync, and difficul
 ## Documentation
 
 - 📘 Project Writeup / Report:  
-  [View PDF](docs/SwimForce.pdf)
+  [View PDF](docs/SwimForceReport.pdf)
 
 - 🎤 Slides / Presentation:  
   [View Slides PDF](docs/SwimForce.pdf)
