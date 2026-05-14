@@ -16,10 +16,10 @@ Traditional swim practice recordings are often messy, hard to sync, and difficul
 ---
 ## Documentation
 
-- 📘 Project Writeup / Report:  
+- Project Writeup / Report:  
   [View PDF](docs/SwimForceReport.pdf)
 
-- 🎤 Slides / Presentation:  
+- Slides / Presentation:  
   [View Slides PDF](docs/SwimForce.pdf)
 
 ---
@@ -27,16 +27,15 @@ Traditional swim practice recordings are often messy, hard to sync, and difficul
 ## Screenshots
 
 ### System Overview
-[System Diagram](pictures/circuit.png)
-[Transducer](pictures/IMG_0898.jpeg.png)
+- [System Diagram](pictures/circuit.png)
+
+- [Transducer](pictures/IMG_0896.jpeg)
 
 ### Underwater Camera Feed
-![Camera Feed](assets/camera_feed.png)
+[Camera Feed](recordings/Cole1_clip.mp4)
 
 ### Signal Detection Output
-![Signal Analysis](assets/signal_detection.png)
-
-*(Replace these filenames with your actual image names in the repo.)*
+[Signal Analysis](recordings/Swimforce.mp4)
 
 ---
 
