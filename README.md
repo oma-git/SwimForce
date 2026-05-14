@@ -14,6 +14,30 @@ Traditional swim practice recordings are often messy, hard to sync, and difficul
 - Providing structured data for later performance analysis
 
 ---
+## Documentation
+
+- 📘 Project Writeup / Report:  
+  [View PDF](docs/SwimForce.pdf)
+
+- 🎤 Slides / Presentation:  
+  [View Slides PDF](docs/SwimForce.pdf)
+
+---
+
+## Screenshots
+
+### System Overview
+![System Diagram](assets/system_overview.png)
+
+### Underwater Camera Feed
+![Camera Feed](assets/camera_feed.png)
+
+### Signal Detection Output
+![Signal Analysis](assets/signal_detection.png)
+
+*(Replace these filenames with your actual image names in the repo.)*
+
+---
 
 ## System Components
 
